@@ -2,7 +2,6 @@
 Dissect the intricate world of George R.R. Martin's A Song of Ice and Fire, also famously known as HBO's Game of Thrones! Discover how characters like Tyrion Lannister and Daenerys Targaryen evolve and navigate through the saga's sprawling social network! Created by Sindu Bhavanam, Andrew Gatchalian, Hyo Won Lee, Dimitrios Mousouroulis, Kuan-I Wu at the University of California, Irvine.
 
 - Analyzed character co-occurrence data using R to visualize relationships and power dynamics within the A Song of Ice and Fire book series.
-- Implemented centrality measures (degree, closeness, betweenness, eigenvector) to identify the evolving influence of key characters across the saga.•Analyzed character co-occurrence data using R to visualize relationships and power dynamics within the A Song of Ice and Fire book series.
 - Implemented centrality measures (degree, closeness, betweenness, eigenvector) to identify the evolving influence of key characters across the saga.
 
 ## Purpose
